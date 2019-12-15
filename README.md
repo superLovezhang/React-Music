@@ -5,6 +5,7 @@
     2. yarn install
     3. yarn start 
     4. 建议在手机或者浏览器的模拟器调试状态使用
+* 在线预览地址： http://47.100.118.229/reactMusic/
 * 页面截图
     1. 主页
     
