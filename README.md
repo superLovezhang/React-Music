@@ -8,24 +8,24 @@
 * 页面截图
     1. 主页
     
-       ![主页](C:\Users\Administrator\Desktop\个人项目心得\项目\12.2 网易云音乐\wang_yi_yun\src\assets\web\主页.png)
+       ![主页](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/主页.png)
     
     2. 搜索页
     
-       ![搜索页1](.\src\assets\web\搜索页1.png)![搜索页2](C:\Users\Administrator\Desktop\个人项目心得\项目\12.2 网易云音乐\wang_yi_yun\src\assets\web\搜索页2.png)
+       ![搜索页1](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/搜索页1.png)![搜索页2](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/搜索页2.png)
     
     3. 歌单页
     
-       ![歌单](.\src\assets\web\歌单.png)
+       ![歌单](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/歌单.png)
     
     4. 排行榜页
     
-       ![排行榜](.\src\assets\web\排行榜.png)
+       ![排行榜](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/排行榜.png)
     
     5. 歌单详情页
     
-       ![歌单详情](.\src\assets\web\歌单详情.png)
+       ![歌单详情](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/歌单详情.png)
     
     6. 歌曲详情页
     
-       ![歌曲详情](.\src\assets\web\歌曲详情.png)
+       ![歌曲详情](https://github.com/superLovezhang/React-Music/tree/master/src/assets/web/歌曲详情.png)
